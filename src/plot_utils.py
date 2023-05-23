@@ -3,6 +3,7 @@ import pandas as pd
 from collections import Counter
 import warnings
 # from pandas.core.common import SettingWithCopyWarning
+# 에러로 인해 주석
 import matplotlib.pyplot as plt 
 from matplotlib.patches import Ellipse
 from matplotlib.ticker import FormatStrFormatter
@@ -10,6 +11,7 @@ from matplotlib.ticker import FormatStrFormatter
 # from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 # import plotly.graph_objs as go
 # warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
+# 에러로 인해 주석
 
 
 def pitch():
